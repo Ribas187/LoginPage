@@ -1,5 +1,5 @@
 ## 🎬 Preview
-![Farmers Market Finder Demo](assets/demo.gif)
+<img src="assets/demo.gif" alt="Demo Preview"  height=400/>
 
 ## 🔖 Como Executar
 #### Clonando o projeto e instalando as dependências
