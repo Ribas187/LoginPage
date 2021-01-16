@@ -17,8 +17,6 @@ import {
   Form,
   InputArea,
   InputLabel,
-  ForgotPasswordButton,
-  ForgotPasswordText,
   SignInArea,
   SignInText,
   SignInButton,

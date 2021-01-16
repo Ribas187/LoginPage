@@ -61,15 +61,6 @@ export const InputLabel = styled.Text`
   color: #b7bfc9;
 `;
 
-export const ForgotPasswordButton = styled(RectButton)`
-  margin-bottom: 20px;
-`;
-
-export const ForgotPasswordText = styled.Text`
-  color: #0041c4;
-  font-weight: bold;
-`;
-
 export const SignInArea = styled.View`
   margin-top: auto;
 
